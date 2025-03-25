@@ -9,10 +9,10 @@
 ## 테스트 결과
 
 **syncFn : 1.2170000076293945ms**
-syncFnWithAwait: 55.6705002784729ms
-asyncFn : 34.23654127120972ms
-parallelAsyncFn: 144.08054208755493ms
-syncFn : 1.3948750495910645ms
-syncFnWithAwait: 29.325000286102295ms
-asyncFn : 27.240041255950928ms
-parallelAsyncFn: 134.50333309173584ms
+syncFnWithAwait: 55.6705002784729ms  
+asyncFn : 34.23654127120972ms  
+parallelAsyncFn: 144.08054208755493ms  
+syncFn : 1.3948750495910645ms  
+syncFnWithAwait: 29.325000286102295ms  
+asyncFn : 27.240041255950928ms  
+parallelAsyncFn: 134.50333309173584ms  

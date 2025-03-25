@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "Node.js 이것저것 해보는 프로젝트",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "test",
+    "performance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "include": [
+    "./**/*.js"
+  ],
+  "dependencies": {
+    "@types/node": "^22.13.11"
+  }
+}

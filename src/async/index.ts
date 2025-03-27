@@ -1,4 +1,4 @@
-import { deley } from "../utils/deley.js";
+import { deley } from "../utils/deley";
 
 async function fn1() {
   return deley(5000);

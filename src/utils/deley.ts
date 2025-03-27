@@ -3,10 +3,10 @@
  * @param {number} ms 지연 시간
  * @returns {Promise}  프로미스
  */
-export function deley(ms) {
+export function deley(ms: number) {
   return new Promise((resolve) => {
     setTimeout(() => {
-      resolve();
+      resolve(undefined);
     }, ms);
   });
 }

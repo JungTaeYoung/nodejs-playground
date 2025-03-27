@@ -6,7 +6,7 @@
 // syncFnWithAwait: 29.325000286102295ms
 // asyncFn        : 27.240041255950928ms
 // parallelAsyncFn: 134.50333309173584ms
-import { measureFunction } from "../utils/function-performance.js";
+import { measureFunction } from "../utils/function-performance";
 
 async function asyncNormal() {}
 function syncNormal() {}

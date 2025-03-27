@@ -8,9 +8,9 @@ Node.js 기능 및 속도, 라이브러리를 테스트해보려고 만든 공�
 
 #### 2025.03.27
 
-- [x] [dependency-injection](./di/)
+- [x] [dependency-injection](./src/di/)
 
 #### 2025.03.26
 
-- [x] [async](./async/)
-- [x] [singleton](./singleton/)
+- [x] [async](./src/async/)
+- [x] [singleton](./src/singleton/)
